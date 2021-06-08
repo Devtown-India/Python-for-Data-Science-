@@ -1,3 +1,4 @@
+# run this file next from the terminal itself
 how_many_snakes = 1
 snake_string = """
 Welcome to Python3!
